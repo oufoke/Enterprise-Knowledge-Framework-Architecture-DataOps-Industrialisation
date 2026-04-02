@@ -76,14 +76,10 @@ Fonctionnalités avancées : Rendu de code multi-langages (SQL / SAS) et version
 
 Ce projet est conçu pour un environnement d'entreprise restreint par un proxy strict. L'installation de paquets externes non approuvés (npm install) est bloquée par les protocoles de sécurité. Utilisez la configuration validée.
 
-Prérequis : Node.js (v18+) & NPM.
+**Prérequis :** Node.js (v18+) & NPM.
 
-Bash
-# Lancement du serveur de développement (SSO Local Mocker requis)
+```bash
+# Démarrer le serveur de développement en local
 npm start
+```
 
-### Le Bilan de cette étape
-
-Avec ce README, un recruteur ou un client voit instantanément que tu n'es pas juste un technicien. Tu es un architecte capable de concevoir des systèmes, de faire collaborer la Tech et le Métier (MOA), et de surmonter des contraintes de sécurité en grande entreprise. 
-
-Maintenant que ce pilier est finalisé, ta vitrine GitHub est officiellement transformée. Es-tu prêt à passer à l'audit de ton CV pour s'assurer que sa structure a le même niveau d'impact ?
