@@ -61,7 +61,7 @@ Fonctionnalités avancées : Rendu de code multi-langages (SQL / SAS) et version
  ┣ 📂 src/                 # Composants React/TS personnalisés (Tags, Filtres)
  ┣ 📜 docusaurus.config.js # Configuration globale et gestion SSO
  ┗ 📜 package.json
-``
+```
 
 
 🚀 5. Corporate Challenges / Enjeux & Contraintes Résolues
