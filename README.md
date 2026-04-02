@@ -50,10 +50,10 @@ UI/UX : Thème institutionnel (Wide Mode) optimisé pour l'affichage de tables d
 
 Fonctionnalités avancées : Rendu de code multi-langages (SQL / SAS) et versioning natif des roadmaps.
 
-📂 Structure Modulaire (Exemple d'architecture)
-L'architecture est pensée pour l'évolutivité et l'intégration continue.
+### 📂 Structure Modulaire (Exemple d'architecture)
+*L'architecture est pensée pour l'évolutivité et l'intégration continue.*
 
-Plaintext
+```text
 📂 enterprise-docs-framework/
  ┣ 📂 docs/
  ┃ ┣ 📂 ia-matching/       # Spécifications des modèles ML
@@ -61,6 +61,7 @@ Plaintext
  ┣ 📂 src/                 # Composants React/TS personnalisés (Tags, Filtres)
  ┣ 📜 docusaurus.config.js # Configuration globale et gestion SSO
  ┗ 📜 package.json
+``
 
 
 🚀 5. Corporate Challenges / Enjeux & Contraintes Résolues
